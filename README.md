@@ -34,11 +34,10 @@
 
  pkg install git python -y
 
- git clone https://github.com/nilosqui/Bengala-painel
 
- cd painel-ryankkkk
 
- python painel-ryankkkk.py
+ 
+
 
 ```
 
